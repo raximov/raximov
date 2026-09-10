@@ -82,6 +82,7 @@
 
 [![Email](https://img.shields.io/badge/Email-abduhamidraximov01%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abduhamidraximov01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abduhamid-rakhimov-758ba2238/)
+[![Telegram](https://img.shields.io/badge/Telegram-@abduhamid__r-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/abduhamid_r)
 
 ---
 
