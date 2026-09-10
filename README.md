@@ -81,7 +81,7 @@
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-abduhamidraximov01%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abduhamidraximov01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/raximov](https://www.linkedin.com/in/abduhamid-rakhimov-758ba2238/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abduhamid-rakhimov-758ba2238/)
 
 ---
 
