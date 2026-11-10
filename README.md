@@ -94,7 +94,8 @@ Grouped engineering tracks from the peer-to-peer **School 21** program (`volenti
 | [**algorithms**](https://github.com/raximov/algorithms) | 4 | Maze generation/solving (Eller, BFS, Q-learning) & Graph Algorithms (BFS/DFS, Dijkstra, Floyd-Warshall, Prim MST, ACO TSP) in Python & C (`A1–A2`) |
 | [**BSA**](https://github.com/raximov/BSA) | 17 | Stakeholder analysis, BPMN 2.0, DFD, Sequence/State diagrams, User Stories, Use Cases, Requirements Management, NFRs, REST & SOAP integration specifications (`BSA00–BSA16`) |
 | [**SA**](https://github.com/raximov/SA) | 2 | System Analysis: Software Requirements Document (`SRD.md`), E-Commerce architecture specs, FURPS & ISO/IEC 9126 software quality attributes (`SA1–SA2`) |
-| [**c-and-linux**](https://github.com/raximov/c-and-linux) | 10 | C libraries (`s21_string+`, `s21_math`, `s21_decimal`, `s21_matrix`, `SimpleBashUtils`, `BrickGame`), C++ OOP/GUI (`3DViewer v2`, `C++ MLP`), Ubuntu Linux server admin (`D01_Linux`) |
+| [**c-cpp**](https://github.com/raximov/c-cpp) | 9 | C libraries (`s21_string+`, `s21_math`, `s21_decimal`, `s21_matrix`, `SimpleBashUtils`, `BrickGame`), C++ OOP/GUI (`3DViewer v2`, `C++ MLP`) |
+| [**devops**](https://github.com/raximov/devops) | 1 | DevOps & Linux Administration (`DO`): Ubuntu Server setup, networking, sudo/SSH hardening, monitoring (`htop`/`ncdu`), logs & cron automation (`D01_Linux`) |
 
 Other portfolio highlights: [**medalion-project**](https://github.com/raximov/medalion-project) (Azure End-to-End Medallion Data Pipeline) · [**new_york_taxi-report-REST-API**](https://github.com/raximov/new_york_taxi-report-REST-API) · [**flightstatistics**](https://github.com/raximov/flightstatistics)
 
